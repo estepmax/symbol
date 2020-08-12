@@ -26,3 +26,7 @@ sym.anomaly_distribution(sym.volume())
 ![anomalous volume](https://github.com/estepmax/symbol/blob/master/screenshots/anomalies.png)
 
 ![anomalous dist](https://github.com/estepmax/symbol/blob/master/screenshots/anomdist.png)
+
+### TODO
+- Add the ability to query upcoming earnings & related news for each symbol
+- Some sort of way to perform correlation analysis between symbols  
