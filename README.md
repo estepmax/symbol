@@ -29,4 +29,4 @@ sym.anomaly_distribution(sym.volume())
 
 ### TODO
 - Add the ability to query upcoming earnings & related news for each symbol
-- Some sort of way to perform correlation analysis between symbols  
+- Add signal processing techniques (coherence, spectral density, etc...)
